@@ -26,4 +26,8 @@ and then commit your changes with
 git commit -m "Created a new file"
 ```
 
-After that
+After that you will need to push the changes with:
+
+```bash
+git push origin branch-name
+```
